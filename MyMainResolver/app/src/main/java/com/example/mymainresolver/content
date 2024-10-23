@@ -1,0 +1,2 @@
+CONTENT_URI =content://com.example.user.provider/data
+
